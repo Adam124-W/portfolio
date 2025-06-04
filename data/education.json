@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Polytechnic State of Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Electronic Engineering",
+        "year": "2022-2026",
+        "description": "Saya mahasiswa Politeknik Negeri Semarang angkatan 2022;Saat ini saya masih aktif di Politeknik Negeri Semarang; Saya masih semester 6."
+    },
+    {
+        "university": "SMK NEGERI 3 SALATIGA",
+		"logo": "images/smkn3salatiga.png",
+        "major": "Mechatronics Engineering",
+        "year": "2018 - 2022",
+        "description": "Saya lulusan dari SMK NEGERI 3 SALATIGA tahun 2018; Saya pernah projek akhir yang berjudul mesin pemilah barang berbasis PLC,Pneumatic dan Elektro Pneumatic."
+    }
+]

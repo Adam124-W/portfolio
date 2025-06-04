@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Mesin Pemilah Barang berbasis PLC, pneumatic, dan Elektro Pneumatic",
+        "year": "2022",
+        "partner": "Hasan Yoga, Husein Yudha",
+        "role": "Memprogram CX-Programmer",
+        "description": "Cara kerja mesin pemilah barang dengan otomatis."
+    },
+    {
+        "title": "Membuat  Lampu Strobo di PCB",
+        "year": "2018",
+        "role": "Project",
+        "description": "Menyolder dengan baik."
+    },
+	{
+        "title": "Membuat Lampu Flip-FLop di PCB",
+        "year": "2018",
+        "role": "Project",
+        "description": "Menyolder dengan baik."
+    },
+    {
+        "title": "Alat Ikan Pakan Otomatis",
+        "year": "2022",
+        "partner": "Fadli, M iqbal, Hanum",
+        "role": "Programmer"
+    }
+]

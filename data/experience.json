@@ -1,0 +1,16 @@
+[
+    {
+        "company": "Politeknik Negeri Semarang",
+		"logo":"images/polines-logo.png",
+        "position": "Mahasiswa aktif Teknologi Rekayasa Elektronika",
+        "year": "2022 - Present",
+        "description": "Saya masih aktif menjadi mahasiswa Politeknik Negeri Semarang, saya pernah megerjakan projek alat pemakan ikan otomatis dengan waktu yang sudah ditentukan."
+    },
+	{
+        "company": "PT. Metinca Prima Industrial Works",
+		"logo":"images/ptmetinca.png",
+        "position": "Maintenance",
+        "year": "2021",
+        "description": "Saya Praktik Kerja Lapangan selama 5 bulan, saya mendapatkan pengalaman teknik mengelas, mengebur, mengetahui mesin bubut, saya pernah mengerjakan hal unik di pt tersebut yaitu memperbaiki pagar."
+    }
+]
